@@ -1,3 +1,2 @@
-words = ["python is fun"]
-
+words = ['kiw']
 print("".join(words).lower().replace(" ","-"))
